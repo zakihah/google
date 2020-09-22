@@ -1,0 +1,30 @@
+.gb_h .gb_g {
+    display: inline-block;
+    line-height: 24px;
+    outline: none;
+    vertical-align: middle;
+}
+a.gb_g, span.gb_g {
+    color: rgba(0,0,0,0.87);
+    text-decoration: none;
+}
+
+.gb_h {
+    display: inline-block;
+    padding-left: 15px;
+}
+.gb_D
+ {
+    display: inline-block;
+    outline: none;
+    vertical-align: middle;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    height: 40px;
+    width: 40px;
+    color: #000;
+    cursor: pointer;
+    text-decoration: none;
+}
