@@ -1,12 +1,41 @@
-.gb_h .gb_g {
+.gb_h .gb_g{
     display: inline-block;
     line-height: 24px;
     outline: none;
-    vertical-align: middle;
+    margin: 1px 6px 3px 1400px;
 }
 a.gb_g, span.gb_g {
     color: rgba(0,0,0,0.87);
     text-decoration: none;
+   
+}
+
+
+.logo{
+    text-align : center;
+    display : block;
+    margin-left : auto;
+    margin-right : auto;
+
+
+}
+
+#box {
+    background-color: var(--search-box-bg,white) ;
+ 
+    color: var(--search-box-text);
+    display: block;
+    outline: none;
+    padding-inline-end:48px;
+    width: 30%;
+    z-index: 2;
+    text-align:center;
+    text-align : center;
+    display : block;
+    margin-left : auto;
+    margin-right : auto;
+    border-radius:1em;
+    
 }
 
 .gb_h {
